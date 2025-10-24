@@ -23,3 +23,5 @@ if ($dbUserName == $user && $dbPassword == $pass) {  // Fixed comparison operato
     echo '<font color="red">log in failed</font>';  // Fixed quotes
 }
 ?>
+
+-------- this will use the data from practic.php page...
